@@ -106,32 +106,6 @@
         "EnumValues":{}
     },
     {
-        "DisplayName":"Server Password",
-        "Category":"POT Server Settings",
-        "Description":"",
-        "Keywords":"",
-        "FieldName":"ServerPassword",
-        "InputType":"password",
-        "Hidden":true,
-        "IsFlagArgument":false,
-        "ParamFieldName":"/Script/PathOfTitans.IGameSession.ServerPassword",
-        "IncludeInCommandLine":false,
-        "DefaultValue":"",
-        "EnumValues":{}
-    },
-    {
-        "DisplayName":"RCON Password",
-        "Category":"POT Server Settings",
-        "Description":"See the Security and Privacy menu for configurable options for the server's RCON",
-        "Keywords":"rcon,password",
-        "FieldName":"RCONPassword",
-        "InputType":"hidden",
-        "IsFlagArgument":false,
-        "ParamFieldName":"RCONPassword",
-        "IncludeInCommandLine":false,
-        "EnumValues":{}
-    },
-    {
         "DisplayName":"Enable Easy Anti-Cheat",
         "Category":"POT Server Settings",
         "Description":"If set, enables Easy Anti-Cheat (EAC)",
